@@ -1,0 +1,234 @@
+/*===== Red Color =====*/
+/*===== Background Color =====*/
+.theme-bg,
+.theme-bg-layer:before,
+.theme-bf-bg:before,
+a.theme-bf-bg:before,
+.sec-tl2 > h2:before,
+.prtfl-inf-btns > a::before,
+.owl-carousel .owl-nav > div:hover,
+.scl-lnks > a:hover,
+.scl-lnks > a:focus,
+header.style2 .menu-box-inner nav > div > ul.top-info:before,
+.srv-bx3:hover:before,
+.fltr-lnks > li > a:before,
+.cor-bx:hover > i,
+.jrny-mckp > a:hover,
+.jrny-mckp > a:focus,
+header.style3 nav > div > ul > li > a::before,
+header.style4 nav > div > ul > li > a::before,
+.fe-vdo-wrp > a:hover i,
+.fe-vdo-wrp > a:focus i,
+.fea-bx > i:after,
+.fltr-btns.style2 > li > a::before,
+.plan-bx3.act .plan-hdr,
+.plan-bx3:hover .plan-hdr,
+.post-thmb-car .owl-dots > div.active,
+.prc-car .owl-dots > div.active,
+.fltr-btns.style3 > li > a:hover::before, 
+.fltr-btns.style3 > li.active > a::before,
+.scl-lnks2 > a:before,
+.glry-itm > a:before,
+.srv-inf-lst > li::before,
+.mnu-cls-btn:hover,
+.testi-car3 .owl-nav > div,
+.pagination li a:before,
+.pagination li span:before,
+.scl-btns > a:hover,
+.scl-btns > a:focus,
+.wb-dvplmnt-car .owl-dots > div.active,
+.wb-dvplmnt-dsc > h2::before,
+.tagclouds > a:before,
+.prd-thmb > a:before,
+.fn-fct-bx.styl2 > h4:before,
+.noUi-connect,
+.sidebar-wrap .tgl-lst > ul ul li > a:hover:before,
+.sidebar-wrap .tgl-lst > ul ul li > a:focus:before,
+.prd-dtl-tbs > ul > li > a:before,
+.srch-cls-btn:hover,
+.rspn-mnu-btn:hover,
+.rspn-scil > li a:hover,
+.rspn-mnu-cls:hover,
+.one-page-nav > li::before, 
+.one-page-nav > li::after,
+.one-page-nav > li.active > a, 
+.one-page-nav > li:hover > a,
+.slick-dots > li.slick-active button
+{
+	background-color: #fab702;
+}
+
+
+{
+	background: #fab702;
+}
+
+/*===== Text Color =====*/
+.theme-clr,
+nav > div ul > li:hover > a,
+nav > div ul > li > a:focus,
+.srch-lnks > li:hover > a,
+.srch-lnks > li > a:focus,
+.srv-bx > h4 a:hover,
+.srv-bx > h4 a:focus,
+.srv-bx > a:hover,
+.srv-bx > a:focus,
+.sec-tl1 > a:hover,
+.sec-tl1 > a:focus,
+.prtfl-inf > h4 a:hover,
+.prtfl-inf > h4 a:focus,
+.prtfl-cat > a:hover,
+.prtfl-cat > a:focus,
+.team-info > h4 a:hover,
+.team-info > h4 a:focus,
+.team-info > a:hover,
+.team-info > a:focus,
+.vdo-bx > a:hover, 
+.vdo-bx > a:focus,
+.post-info > h4 a:hover,
+.post-info > h4 a:focus,
+.post-meta > li a:hover,
+.post-meta > li a:focus,
+.rcnt-itm > h4 a:hover,
+.rcnt-itm > h4 a:focus,
+.ft-cnt-lst > li a:hover,
+.ft-cnt-lst > li a:focus,
+.wdgt > a:hover,
+.wdgt > a:focus,
+.btm-br p a:hover,
+.btm-br p a:focus,
+.srv-bx2 > h4 a:hover,
+.srv-bx2 > h4 a:focus,
+.cor-vdo > a:hover,
+.cor-vdo > a:focus,
+.fltr-inf > h4 a:hover,
+.fltr-inf > h4 a:focus,
+.fltr-cat > a:hover,
+.fltr-cat > a:focus,
+.theme-btn.no-bg-btn.theme-bf-bg,
+.tp-scl > a:hover,
+.tp-scl > a:focus,
+.topbar-scl-sgn > a:hover,
+.topbar-scl-sgn > a:focus,
+.fe-vdo-wrp > a:hover,
+.fe-vdo-wrp > a:focus,
+.wdgt ul li a:hover,
+.wdgt ul li a:focus,
+.twtr-bx > p a:hover,
+.twtr-bx > p a:focus,
+.menu-box nav > div > p a:hover,
+.menu-box nav > div > p a:focus,
+.scl-lnks3 > a:hover,
+.scl-lnks3 > a:focus,
+.hdr-lnks > a:hover,
+.hdr-lnks > a:focus,
+.breadcrumb > li a:hover,
+.breadcrumb > li a:focus,
+.black-layer3 .breadcrumb > li a:hover,
+.black-layer3 .breadcrumb > li a:focus,
+.breadcrumb > li.active,
+.frm-styl > button:hover,
+.frm-styl > button:focus,
+.prtfl-inf2 > h4 a:hover,
+.prtfl-inf2 > h4 a:focus,
+.prtfl-pgn-itm > a:hover,
+.prtfl-pgn-itm > a:focus,
+.cnt-inf-bx > a:hover,
+.cnt-inf-bx > a:focus,
+.athr-inf > h4 a:hover,
+.athr-inf > h4 a:focus,
+.athr-inf > a:hover,
+.athr-inf > a:focus,
+.blg-scl > a:hover,
+.blg-scl > a:focus,
+.scl-bx > a:hover,
+.scl-bx > a:focus,
+.cmt-inf > h4 a:hover,
+.cmt-inf > h4 a:focus,
+.cmt-inf > span a:hover,
+.cmt-inf > span a:focus,
+.cmt-inf > a:hover,
+.cmt-inf > a:focus,
+.cat > a:hover,
+.cat > a:focus,
+.prd-inf > h4 a:hover,
+.prd-inf > h4 a:focus,
+.prd-cat > a:hover,
+.prd-cat > a:focus,
+.cntdn-lst > li:before,
+.bit-fea > a:hover,
+.bit-fea > a:focus,
+header.style8 .menu-box > nav > div > a:hover,
+header.style8 .menu-box > nav > div > a:focus,
+[type="checkbox"]:checked + label::after,
+.prd-tp-dta > ul > li.nav-item a.nav-link:hover,
+.prd-dtl-shr > a:hover,
+.prd-dtl-shr > a:focus,
+.wsh-lst:hover,
+.wsh-lst:focus,
+.hdr-srch-bx > form button:hover,
+.hdr-srch-bx > form button:focus,
+nav div ul li.menu-item-has-children:hover:after,
+.rsnp-mnu ul > li > a:focus,
+.rsnp-mnu ul > li:hover > a,
+.rsnp-mnu ul > li.active > a,
+.rspn-srch > button:hover,
+.rsnp-mnu ul li.menu-item-has-children.active:before,
+.one-page-scrol a.active,
+.testi-thmb-inf > h6,
+.black-layer .testi-thmb-inf > h6
+{
+	color: #fab702;
+}
+
+/*===== Border Color =====*/
+.theme-brd-clr,
+.cnt-frm-wrp form input:hover,
+.cnt-frm-wrp form input:focus,
+.cnt-frm-wrp > form textarea:hover,
+.cnt-frm-wrp > form textarea:focus,
+.cor-vdo > a:hover i,
+.cor-vdo > a:focus i,
+.theme-btn.no-bg-btn.theme-bf-bg,
+.jrny-desc-car.owl-carousel .owl-dots > div.active,
+.slc-wrp .bootstrap-select > button:hover,
+.slc-wrp .bootstrap-select > button:focus,
+.frm-wrp form input:hover,
+.frm-wrp form input:focus,
+.fe-vdo-wrp > a:hover i,
+.fe-vdo-wrp > a:focus i,
+.noUi-horizontal .noUi-handle,
+.sidebar-wrap .tgl-lst > ul ul li > a:hover:before,
+.sidebar-wrap .tgl-lst > ul ul li > a:focus:before,
+.one-page-nav > li > a::before,
+.one-page-nav > li > a::before, 
+.one-page-nav > li:hover > a::before,
+.one-page-nav > li.active > a::after, 
+.one-page-nav > li:hover > a::after
+{
+	border-color: #fab702;
+}
+
+/*===== Border Top Color =====*/ 
+
+{
+	border-top-color: #fab702;
+}
+
+/*===== Border Right Color =====*/ 
+
+{
+	border-right-color: #fab702;
+}
+
+/*===== Border Bottom Color =====*/
+
+{
+	border-bottom-color: #fab702;
+}
+
+/*===== Border Left Color =====*/ 
+blockquote
+{
+	border-left-color: #fab702;
+}
